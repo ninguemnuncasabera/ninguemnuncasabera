@@ -1,6 +1,6 @@
 # sobre mim
-- 👋 olá meu nome é @ninguemnuncasabera
-- :+1: meu email de contato é fernanda.barbosa.maria@escola.pr.gov.br
+- 👋 olá meu nome é **@ninguemnuncasabera**
+- :+1: meu email de contato é [email](fernanda.barbosa.maria@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar a linguagem de JavaScript e Scratch
 <!---
